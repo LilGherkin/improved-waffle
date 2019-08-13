@@ -33,6 +33,6 @@ Project Goal:
 * Must be Deployed (GitHub Pages or Firebase)
 * Must have User Input Validation
 * Presentation Date:
-* Tuesday, September 3rd.  
+* Tenative - September 3, 2019  
 
 
